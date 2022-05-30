@@ -8,6 +8,9 @@ Foi solicitado o Seguinte:
 Imagine que você trabalha como desenvolvedor de sistemas em uma fábrica de software que tem como novo cliente o dono de um hotel que foi recém inaugurado. O hotel necessita de um sistema de reserva de hospedagem para gestao das vagas nas suítes, o analista de sistemas já fez a modelagem do sistema como demonstrado abaixo:
 
 imagen fluxograma da situação!
+<p align="center">
+<img width="470" src="src/fluxogramamapa.png">
+</p>
 
 Além da modelagem disponível para implementação, temos também alguns requisitos funcionais que são:
 1 - A reserva não pode alocar mais hóspedes do que a capacidade da suíte.
