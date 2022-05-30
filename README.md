@@ -1,7 +1,7 @@
 # Reserva Hotel
 ## Sistema para fazer reservas de Hotelaria - IDE Netbeans
 
-### Esse código foi feito como avaliação final na materia de programação I em Java na faculdade.
+### Esse código foi feito como avaliação final na materia de programação III em Java na faculdade.
 
 Foi solicitado o Seguinte:
 
